@@ -17,3 +17,4 @@ int main()
     }
     return 0;
 }
+//This approach is only valid when n is odd
