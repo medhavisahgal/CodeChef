@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/KIIT/Desktop/CodeChef",
       "program": "c:/Users/KIIT/Desktop/CodeChef/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/KIIT/Desktop/work/CodeChef",
+      "program": "c:/Users/KIIT/Desktop/work/CodeChef/build/Debug/outDebug",
+>>>>>>> 24ceedf2a6eb1700e0d429b528bed7e46dff6c6b
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
